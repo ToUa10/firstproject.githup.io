@@ -10,10 +10,9 @@
    
  }
 .menu{
-   width: 270px;
+   width: 300px;
    height: 900px;
    padding: 3px;
-   overflow: hidden;
    transition: 0.5s;
    position: relative;
 }
@@ -68,10 +67,6 @@ p{
 .dark1{border-radius: 8px;
    width: 100%;
 
-}
-
-.menu:hover{
-   width: 270px;
 }
 .list{
    margin: 0;
